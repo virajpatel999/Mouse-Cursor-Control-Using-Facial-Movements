@@ -1,0 +1,2 @@
+cd "E:\Mouse-Control-Using-Facial-Movement-master\Mouse-Control-Using-Facial-Movement-master"
+python mouse-cursor-control.py
